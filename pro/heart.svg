@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="heart" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<path id="favorite-icon" fill="#451F59" d="M54.2,4.1C44.1-1.2,33.5,4.3,32,11.4C30.5,4.3,19.9-1.2,9.8,4.1
+	C-3.6,11.2-8.9,36.2,32,62C72.9,36.2,67.6,11.2,54.2,4.1z"/>
+<linearGradient id="favorite-icon_2_" gradientUnits="userSpaceOnUse" x1="2.8833" y1="33.375" x2="61.1167" y2="33.375">
+	<stop  offset="0" style="stop-color:#852473"/>
+	<stop  offset="1" style="stop-color:#CD70AD"/>
+</linearGradient>
+<path id="favorite-icon_1_" fill="url(#favorite-icon_2_)" d="M52.2,9.1C43,4.5,33.4,9.2,32,15.4C30.6,9.2,21,4.5,11.8,9.1
+	C-0.4,15.2-5.2,37,32,59.5C69.2,37,64.4,15.2,52.2,9.1z"/>
+</svg>

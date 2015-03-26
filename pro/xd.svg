@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<g id="Emote_back">
+	<circle fill="#451F59" cx="32" cy="32" r="32"/>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="32" y1="60.5833" x2="32" y2="3.9161">
+		<stop  offset="0" style="stop-color:#852473"/>
+		<stop  offset="1" style="stop-color:#CD70AD"/>
+	</linearGradient>
+	<circle fill="url(#SVGID_1_)" cx="32" cy="32" r="30"/>
+</g>
+<g id="xD">
+	<g>
+		<path fill="#20122D" d="M49.3,27.4L49,28c-0.3,0.7-1,1-1.7,0.7L15.6,15.3c-0.7-0.3-1-1-0.7-1.7l0.2-0.6c0.3-0.7,1-1,1.7-0.7
+			l31.8,13.4C49.3,26,49.6,26.8,49.3,27.4z"/>
+		<path fill="#20122D" d="M49.1,13.2l0.2,0.6c0.3,0.7-0.1,1.4-0.7,1.7l-31.9,13c-0.7,0.3-1.4-0.1-1.7-0.7l-0.2-0.6
+			c-0.3-0.7,0.1-1.4,0.7-1.7l31.9-13C48.1,12.2,48.9,12.6,49.1,13.2z"/>
+	</g>
+	<path fill="#20122D" d="M32.2,36.7c-10.1,0-18.5-0.8-25.1-2C8.3,47.4,19,57.3,32,57.3c13,0,23.6-9.9,24.9-22.5
+		C50.3,35.9,42.1,36.7,32.2,36.7z"/>
+	<path fill="#FFFFFF" d="M32.1,40.6c-8.3,0-15.1-0.6-20.5-1.4c1,9,9.7,16,20.3,16c10.6,0,19.2-7,20.3-16
+		C46.9,40.1,40.2,40.6,32.1,40.6z"/>
+</g>
+</svg>
